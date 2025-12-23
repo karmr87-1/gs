@@ -1,0 +1,38 @@
+[
+    {
+        "EventTypeId": 1,
+        "EventName": "Event1",
+        "EventID": "Event1",
+        "IconName": "compass",
+        "CountEvent": 10,
+        "EventValue": 1,
+        "Priority": 1
+    },
+    {
+        "EventTypeId": 2,
+        "EventName": "Event2",
+        "EventID": "Event2",
+        "IconName": "compass",
+        "CountEvent": 20,
+        "EventValue": 2,
+        "Priority": 2
+    },
+    {
+        "EventTypeId": 3,
+        "EventName": "Event3",
+        "EventID": "Event3",
+        "IconName": "compass",
+        "CountEvent": 30,
+        "EventValue": 3,
+        "Priority": 3
+    },
+    {
+        "EventTypeId": 4,
+        "EventName": "Event4",
+        "EventID": "Event4",
+        "IconName": "compass",
+        "CountEvent": 40,
+        "EventValue": 4,
+        "Priority": 4
+    }
+]
