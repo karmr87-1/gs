@@ -1,0 +1,353 @@
+[
+    {
+        "EventTypeId": 3001,
+        "EventName": "Marketing Leads and Plays",
+        "EventID": "MKTG_LDS_PLYS",
+        "IconName": "compass",
+        "CountEvent": 3021,
+        "EventValue": 30210000.000,
+        "Priority": 100.0000000
+    },
+    {
+        "EventTypeId": 29,
+        "EventName": "Stale Pipeline",
+        "EventID": "PIPLN_STALE",
+        "IconName": "alarm-clock",
+        "CountEvent": 171,
+        "EventValue": 16878270.040,
+        "Priority": 83.7578125
+    },
+    {
+        "EventTypeId": 9005,
+        "EventName": "Try-it Overdue",
+        "EventID": "OVERDUE_TRYIT",
+        "IconName": "try_it_overdue",
+        "CountEvent": 12,
+        "EventValue": 0.000,
+        "Priority": 83.3281251
+    },
+    {
+        "EventTypeId": 35,
+        "EventName": "Past Due Pipeline",
+        "EventID": "PIPLN_PSTDUE",
+        "IconName": "pipeline-past-due",
+        "CountEvent": 20,
+        "EventValue": 1938702.340,
+        "Priority": 83.2421875
+    },
+    {
+        "EventTypeId": 8007,
+        "EventName": "Pipeline Closing Next Week",
+        "EventID": "PIPLN_CLSNG_NXT_WK",
+        "IconName": "pipeline_closing_next_week",
+        "CountEvent": 22,
+        "EventValue": 2128310.380,
+        "Priority": 82.4139572
+    },
+    {
+        "EventTypeId": 8,
+        "EventName": "Pipeline Closing Within 2 Days",
+        "EventID": "PIPLN_CLSNG",
+        "IconName": "pipeline-closing",
+        "CountEvent": 19,
+        "EventValue": 1854084.620,
+        "Priority": 80.0970538
+    },
+    {
+        "EventTypeId": 22049,
+        "EventName": "Marketing Leads - Outbound",
+        "EventID": "MKTG_LDS_PLYS_OB",
+        "IconName": "compass",
+        "CountEvent": 4,
+        "EventValue": 40000.000,
+        "Priority": 77.9615385
+    },
+    {
+        "EventTypeId": 13001,
+        "EventName": "Networking Tech Refresh Opportunity",
+        "EventID": "NTWK_CNTRCT_RFRSH_OPPS",
+        "IconName": "network-switch",
+        "CountEvent": 20,
+        "EventValue": null,
+        "Priority": 76.0070588
+    },
+    {
+        "EventTypeId": 22050,
+        "EventName": "Marketing Leads - Inbound hand raiser",
+        "EventID": "MKTG_LDS_PLYS_IBH",
+        "IconName": "compass",
+        "CountEvent": 1,
+        "EventValue": 10000.000,
+        "Priority": 62.9926535
+    },
+    {
+        "EventTypeId": 14005,
+        "EventName": "New Order",
+        "EventID": "ORD_NEW",
+        "IconName": "new-order-online",
+        "CountEvent": 386,
+        "EventValue": 6336737.622,
+        "Priority": 48.0117648
+    },
+    {
+        "EventTypeId": 17,
+        "EventName": "Shipped Orders",
+        "EventID": "ORD_SHPD",
+        "IconName": "shipped-orders",
+        "CountEvent": 1021,
+        "EventValue": 17192889.781,
+        "Priority": 45.6538462
+    },
+    {
+        "EventTypeId": 2,
+        "EventName": "Pipeline Lost",
+        "EventID": "PIPLN_CLSD_LST",
+        "IconName": "pipeline-closed-lost",
+        "CountEvent": 166,
+        "EventValue": 10931086.134,
+        "Priority": 42.7692308
+    },
+    {
+        "EventTypeId": 19001,
+        "EventName": "Try-It Default Invoicing",
+        "EventID": "TRY_N_BUY_INVOICNG",
+        "IconName": "try_it_overdue",
+        "CountEvent": 2,
+        "EventValue": 0.000,
+        "Priority": 41.7495668
+    },
+    {
+        "EventTypeId": 9,
+        "EventName": "Quotes Created",
+        "EventID": "QTE_CRTD",
+        "IconName": "new-quote",
+        "CountEvent": 609,
+        "EventValue": 18570347.220,
+        "Priority": 35.7307692
+    },
+    {
+        "EventTypeId": 32,
+        "EventName": "Pipeline Added",
+        "EventID": "PIPLN_ADDED",
+        "IconName": "pipeline-added",
+        "CountEvent": 185,
+        "EventValue": 14453827.879,
+        "Priority": 32.8705883
+    },
+    {
+        "EventTypeId": 13004,
+        "EventName": "Pipeline status update",
+        "EventID": "PIPLN_UPDTS",
+        "IconName": "pipeline_status_update",
+        "CountEvent": 22,
+        "EventValue": 1659601.000,
+        "Priority": 31.9176471
+    },
+    {
+        "EventTypeId": 6,
+        "EventName": "Pipeline Pushed",
+        "EventID": "PIPLN_PUSHD",
+        "IconName": "pipeline-pushed",
+        "CountEvent": 11,
+        "EventValue": 857560.000,
+        "Priority": 30.9647059
+    },
+    {
+        "EventTypeId": 26,
+        "EventName": "Trips Info",
+        "EventID": "TRPS_INFO",
+        "IconName": "customer_visited",
+        "CountEvent": 14,
+        "EventValue": 0.000,
+        "Priority": 30.5411765
+    },
+    {
+        "EventTypeId": 16005,
+        "EventName": "LTBM Customers without Quote/Pipe/Order",
+        "EventID": "ACCT_RCMDTNS_LTBM",
+        "IconName": "ltb_cust_wout",
+        "CountEvent": 89,
+        "EventValue": null,
+        "Priority": 30.4230770
+    },
+    {
+        "EventTypeId": 16006,
+        "EventName": "LTX Customers without Quote/Pipe/Order",
+        "EventID": "ACCT_RCMDTNS_LTX",
+        "IconName": "ltb_cust_wout",
+        "CountEvent": 34,
+        "EventValue": null,
+        "Priority": 30.0769231
+    },
+    {
+        "EventTypeId": 5,
+        "EventName": "Pipeline Won",
+        "EventID": "PIPLN_CLSD_WON",
+        "IconName": "pipeline-closed-won",
+        "CountEvent": 43,
+        "EventValue": 2579614.858,
+        "Priority": 29.8000000
+    },
+    {
+        "EventTypeId": 16007,
+        "EventName": "Top Priority LTBM  Customers without Quote/Pipe/Order",
+        "EventID": "ACCT_RCMDTNS_TP_LTBM",
+        "IconName": "ltb_cust_wout",
+        "CountEvent": 36,
+        "EventValue": null,
+        "Priority": 29.5000000
+    },
+    {
+        "EventTypeId": 16004,
+        "EventName": "LTA Customers without Quote/Pipe/Order",
+        "EventID": "ACCT_RCMDTNS_LTA",
+        "IconName": "ltb_cust_wout",
+        "CountEvent": 13,
+        "EventValue": null,
+        "Priority": 27.0769231
+    },
+    {
+        "EventTypeId": 15002,
+        "EventName": "New Gen-AI Customer",
+        "EventID": "ACCT_GENAI",
+        "IconName": "tasks",
+        "CountEvent": 1,
+        "EventValue": 20000.000,
+        "Priority": 23.5627907
+    },
+    {
+        "EventTypeId": 9000,
+        "EventName": "Large Order Tracking",
+        "EventID": "PIPLN_LOH",
+        "IconName": "large-order-tracking",
+        "CountEvent": 1,
+        "EventValue": 180000.000,
+        "Priority": 19.2344187
+    },
+    {
+        "EventTypeId": 6000,
+        "EventName": "90%+ Storage Utilization",
+        "EventID": "UTLZTN_OVR_90",
+        "IconName": "storage",
+        "CountEvent": 4,
+        "EventValue": 0.000,
+        "Priority": 18.5384616
+    },
+    {
+        "EventTypeId": 8000,
+        "EventName": "70%+ Storage Utilization",
+        "EventID": "UTLZTN_OVR_70",
+        "IconName": "storage",
+        "CountEvent": 13,
+        "EventValue": 0.000,
+        "Priority": 18.3076923
+    },
+    {
+        "EventTypeId": 6001,
+        "EventName": "80%+ Storage Utilization",
+        "EventID": "UTLZTN_OVR_80",
+        "IconName": "storage",
+        "CountEvent": 5,
+        "EventValue": 0.000,
+        "Priority": 18.1923077
+    },
+    {
+        "EventTypeId": 24002,
+        "EventName": "Demand signals for the week",
+        "EventID": "MKTG_LDS_WKLY_RO",
+        "IconName": "bubble-exclamation",
+        "CountEvent": 207,
+        "EventValue": null,
+        "Priority": 17.6153846
+    },
+    {
+        "EventTypeId": 1,
+        "EventName": "Account Last Contacted",
+        "EventID": "LST_TRP",
+        "IconName": "account-last-contacted",
+        "CountEvent": 62,
+        "EventValue": 0.000,
+        "Priority": 17.3298969
+    },
+    {
+        "EventTypeId": 34,
+        "EventName": "Cancelled Order",
+        "EventID": "ORD_CNCLD",
+        "IconName": "orders-cancelled",
+        "CountEvent": 4,
+        "EventValue": -115080.900,
+        "Priority": 11.7557495
+    },
+    {
+        "EventTypeId": 22066,
+        "EventName": "70%+ Storage Utilization",
+        "EventID": "UTLZTN_OVR_70_RO",
+        "IconName": "storage",
+        "CountEvent": 12,
+        "EventValue": 0.000,
+        "Priority": 11.5987312
+    },
+    {
+        "EventTypeId": 22041,
+        "EventName": "SVR/STG Tech Refresh Week 7 Alert",
+        "EventID": "TCH_RFRSH_ISG_MGR_WK7",
+        "IconName": "employee-group",
+        "CountEvent": 1,
+        "EventValue": 10000.000,
+        "Priority": 10.7500001
+    },
+    {
+        "EventTypeId": 22068,
+        "EventName": "90%+ Storage Utilization",
+        "EventID": "UTLZTN_OVR_90_RO",
+        "IconName": "storage",
+        "CountEvent": 2,
+        "EventValue": 0.000,
+        "Priority": 10.5781127
+    },
+    {
+        "EventTypeId": 22067,
+        "EventName": "80%+ Storage Utilization",
+        "EventID": "UTLZTN_OVR_80_RO",
+        "IconName": "storage",
+        "CountEvent": 4,
+        "EventValue": 0.000,
+        "Priority": 7.3592388
+    },
+    {
+        "EventTypeId": 18001,
+        "EventName": "Race to Refresh CSG(HW) Expiring Tags",
+        "EventID": "CSG_CNTRCT_RFRSH_OPPS_HW",
+        "IconName": "employee-group",
+        "CountEvent": 41,
+        "EventValue": 410000.000,
+        "Priority": 7.1237114
+    },
+    {
+        "EventTypeId": 42,
+        "EventName": "Pipeline Meddpicc",
+        "EventID": "PIPLN_MEDDPICC",
+        "IconName": "meddpicc_noncompliant_deals",
+        "CountEvent": 4,
+        "EventValue": 400000.000,
+        "Priority": 6.5239131
+    },
+    {
+        "EventTypeId": 21008,
+        "EventName": "Demand signals for the week",
+        "EventID": "MKTG_LDS_WKLY",
+        "IconName": "bubble-exclamation",
+        "CountEvent": 105,
+        "EventValue": null,
+        "Priority": 5.9843751
+    },
+    {
+        "EventTypeId": 15000,
+        "EventName": "Race to Refresh CSG(Non-HW) Expiring Tags",
+        "EventID": "CSG_CNTRCT_RFRSH_OPPS",
+        "IconName": "employee-group",
+        "CountEvent": 1,
+        "EventValue": 10000.000,
+        "Priority": 3.4772119
+    }
+]
