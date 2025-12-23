@@ -2,37 +2,5 @@
     {
         "EventTypeId": 1,
         "EventName": "Event 1",
-        "EventID": "EVENT_1",
-        "IconName": "compass",
-        "CountEvent": 1,
-        "EventValue": 30210000.000,
-        "Priority": 100.0000000
-    },
-   {
-        "EventTypeId": 2,
-        "EventName": "Event 2",
-        "EventID": "EVENT_2",
-        "IconName": "compass",
-        "CountEvent": 2,
-        "EventValue": 30210000.000,
-        "Priority": 100.0000000
-    },
-    {
-        "EventTypeId": 3,
-        "EventName": "Event 3",
-        "EventID": "EVENT_3",
-        "IconName": "compass",
-        "CountEvent": 3,
-        "EventValue": 30210000.000,
-        "Priority": 100.0000000
-    },
-    {
-        "EventTypeId": 4,
-        "EventName": "Event 4",
-        "EventID": "EVENT_4",
-        "IconName": "compass",
-        "CountEvent": 4,
-        "EventValue": 30210000.000,
-        "Priority": 100.0000000
-    },
+    }
 ]
